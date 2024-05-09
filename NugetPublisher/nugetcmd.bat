@@ -1,0 +1,1 @@
+nuget.exe pack E:\ADAzDataAi\Codebase_Solutions\ADAz.IA\EP.NETCore.Common\EP.NETCore.Common\EP.NETCore.Common.csproj -ForceEnglishOutput -IncludeReferencedProjects -NoDefaultExcludes -OutputDirectory "C:\Users\mohdismail.siddiqui\Desktop\New folder" -Properties Configuration=Release -Version 1.0.0.4

@@ -1,0 +1,1 @@
+nuget.exe push "C:\Users\mohdismail.siddiqui\Desktop\New folder\EP.NETCore.Common.1.0.0.4.nupkg" -SkipDuplicate -Source "https://pkgs.dev.azure.com/mohdismailsiddiqui/_packaging/mohdismailsiddiqui/nuget/v3/index.json" -ApiKey "xyz"
